@@ -1,0 +1,4 @@
+{
+
+"GxObject":{"ObjectType":"BusinessComponent","Name":"Trn.TDevices","idConnectivitySupport":"idInherit","Structure":{"Levels":[{"Name":"Tdevices","ParentLevel":"","LevelName":"TRN.TDevices","Description":"Devices","Attributes":[{"Name":"ClientID","Caption":"Client ID","default":"","IsKey":"true","ReadOnly":"false","AttributeType":"char","Description":"Client ID","Length":"64","Decimals":"0","Signed":"false","AllowDBNulls":"false","InternalName":"ClientID","InputPicture":"","Type":"xs:string"},{"Name":"ClientName","Caption":"Client Name","default":"","IsKey":"false","ReadOnly":"false","AttributeType":"char","Description":"Client Name","Length":"100","Decimals":"0","Signed":"false","AllowDBNulls":"true","InternalName":"ClientName","DescriptionAtt":"true","InputPicture":"","Type":"xs:string"}]}]},"Relations":{"ManyToOne":{"references":[]}}}
+}

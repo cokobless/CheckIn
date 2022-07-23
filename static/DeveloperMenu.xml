@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus17/</Path>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>TRN\TChk01</ObjName>
+      <ObjDesc>TRN.CheckIn</ObjDesc>
+      <ObjLink>/ChekInJE/com.chekin.trn.tchk01</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>TRN\TDevices</ObjName>
+      <ObjDesc>TRN.Devices</ObjDesc>
+      <ObjLink>/ChekInJE/com.chekin.trn.tdevices</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>13</ObjCls>
+      <ObjName>WPTest</ObjName>
+      <ObjDesc>WPTest</ObjDesc>
+      <ObjLink>/ChekInJE/com.chekin.wptest</ObjLink>
+   </Object>
+</Objects>
